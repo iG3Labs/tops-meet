@@ -1,26 +1,19 @@
-<a href="https://livekit.io/">
-  <img src="./.github/assets/livekit-mark.png" alt="LiveKit logo" width="100" height="100">
-</a>
-
-# LiveKit Meet
+# PeopleMeet.xyz
 
 <p>
-  <a href="https://meet.livekit.io"><strong>Try the demo</strong></a>
-  •
-  <a href="https://github.com/livekit/components-js">LiveKit Components</a>
-  •
-  <a href="https://docs.livekit.io/">LiveKit Docs</a>
-  •
-  <a href="https://livekit.io/cloud">LiveKit Cloud</a>
-  •
-  <a href="https://blog.livekit.io/">Blog</a>
+  <a href="https://peoplemeet.xyz"><strong>Try the demo</strong></a>
 </p>
 
 <br>
 
-LiveKit Meet is an open source video conferencing app built on [LiveKit Components](https://github.com/livekit/components-js), [LiveKit Cloud](https://cloud.livekit.io/), and Next.js. It's been completely redesigned from the ground up using our new components library.
+PeopleMeet.xyz is an anonymous, decentralized video conferencing platform with end-to-end encryption and AI features.
 
-![LiveKit Meet screenshot](./.github/assets/livekit-meet.jpg)
+## Key Features
+
+- **Anonymous**: No registration required, join meetings instantly
+- **Decentralized**: Built on distributed infrastructure for enhanced privacy
+- **End-to-End Encryption**: Your conversations are secure and private
+- **AI Features**: Intelligent meeting assistance and enhancement
 
 ## Tech Stack
 
@@ -29,7 +22,7 @@ LiveKit Meet is an open source video conferencing app built on [LiveKit Componen
 
 ## Demo
 
-Give it a try at https://meet.livekit.io.
+Give it a try at https://peoplemeet.xyz.
 
 ## Dev Setup
 

@@ -6,27 +6,27 @@ import { Toaster } from 'react-hot-toast';
 
 export const metadata: Metadata = {
   title: {
-    default: 'LiveKit Meet | Conference app build with LiveKit open source',
+    default: 'PeopleMeet.xyz | Anonymous, Decentralized Video Conferencing with AI',
     template: '%s',
   },
   description:
-    'LiveKit is an open source WebRTC project that gives you everything needed to build scalable and real-time audio and/or video experiences in your applications.',
+    'PeopleMeet.xyz is an anonymous, decentralized video conferencing platform with end-to-end encryption and AI features. Join meetings instantly without registration.',
   twitter: {
     creator: '@livekitted',
     site: '@livekitted',
     card: 'summary_large_image',
   },
   openGraph: {
-    url: 'https://meet.livekit.io',
+    url: 'https://peoplemeet.xyz',
     images: [
       {
-        url: 'https://meet.livekit.io/images/livekit-meet-open-graph.png',
+        url: 'https://peoplemeet.xyz/images/peoplemeet-open-graph.png',
         width: 2000,
         height: 1000,
         type: 'image/png',
       },
     ],
-    siteName: 'LiveKit Meet',
+    siteName: 'PeopleMeet.xyz',
   },
   icons: {
     icon: {
